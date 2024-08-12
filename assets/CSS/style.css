@@ -77,25 +77,3 @@ img{
     text-align: center;
     color: #fff;
 }
-
-.redes_sociales {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    width: 100px;
-    margin-left: 648px;
-    margin-top: 20px;
-}
-.redes_sociales i{
-   font-size: 30px;
-   padding-left: 40px;
-}
-
-.redes_sociales a{
-    color: #fff;
-}
-
-.redes_sociales a:hover{
-    color: #ccc;
-    transition: 0.5s ease;
-}
